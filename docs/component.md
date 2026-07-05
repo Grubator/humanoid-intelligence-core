@@ -25,11 +25,13 @@ A Component is a physical part used to build a humanoid robot.
 
 ## Required Fields
 
-- Name
+## Required Fields
+
+- Component name
 - Category
 - Manufacturer
 - Country
-- Specifications
+- Description
 
 ## Relationships
 
