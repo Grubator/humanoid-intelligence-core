@@ -53,3 +53,13 @@ Related Manufacturers:
 Related Technologies:
 - Reinforcement Learning
 - Dexterous Hands
+
+## Database Fields
+
+| Field | Type | Required |
+|-------|------|----------|
+| title | string | Yes |
+| slug | string | Yes |
+| published_date | date | Yes |
+| source | url | No |
+| summary | text | No |
