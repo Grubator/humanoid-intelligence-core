@@ -79,3 +79,22 @@ Robot data will power:
 - Country pages
 - Manufacturer pages
 - Intelligence reports
+
+## Database Fields
+
+| Field | Type | Required |
+|-------|------|----------|
+| name | string | Yes |
+| slug | string | Yes |
+| manufacturer | relationship | Yes |
+| country | relationship | Yes |
+| status | taxonomy | Yes |
+| introduced_year | integer | Yes |
+| height_mm | integer | No |
+| weight_kg | decimal | No |
+| payload_kg | decimal | No |
+| speed_mps | decimal | No |
+| dof | integer | No |
+| runtime_minutes | integer | No |
+| battery_type | string | No |
+| charging_time_minutes | integer | No |
