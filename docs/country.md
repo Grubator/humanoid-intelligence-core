@@ -55,3 +55,12 @@ Government Initiatives:
 | iso_code | string | Yes |
 | region | taxonomy | No |
 | description | text | No |
+
+## Country 
+### Fields
+
+- name → Text
+- slug → Auto
+- iso_code → Text
+- region → Taxonomy
+- description → WYSIWYG
