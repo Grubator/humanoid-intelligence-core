@@ -98,3 +98,22 @@ Robot data will power:
 | runtime_minutes | integer | No |
 | battery_type | string | No |
 | charging_time_minutes | integer | No |
+
+## Robot
+
+### Fields
+
+- name → Text
+- slug → Auto
+- manufacturer → Relationship
+- country → Relationship
+- status → Taxonomy
+- introduced_year → Number
+- height_mm → Number
+- weight_kg → Number
+- payload_kg → Number
+- speed_mps → Number
+- dof → Number
+- runtime_minutes → Number
+- battery_type → Text
+- charging_time_minutes → Number
