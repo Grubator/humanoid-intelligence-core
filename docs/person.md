@@ -51,3 +51,14 @@ Related Technologies:
 | website | url | No |
 | linkedin | url | No |
 | biography | text | No |
+
+### Fields
+
+- full_name → Text
+- slug → Auto
+- role → Text
+- organization → Relationship
+- country → Relationship
+- website → URL
+- linkedin → URL
+- biography → WYSIWYG
