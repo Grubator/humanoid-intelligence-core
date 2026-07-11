@@ -40,3 +40,14 @@ Related Robots:
 
 Related Technologies:
 - Dynamic Locomotion
+
+| Field | Type | Required |
+|-------|------|----------|
+| full_name | string | Yes |
+| slug | string | Yes |
+| role | string | Yes |
+| organization | relationship | No |
+| country | relationship | No |
+| website | url | No |
+| linkedin | url | No |
+| biography | text | No |
