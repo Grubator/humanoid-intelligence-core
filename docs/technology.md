@@ -30,3 +30,11 @@ A Technology is a reusable capability used by one or more humanoid robots.
 | category | taxonomy | Yes |
 | maturity_level | integer | No |
 | description | text | No |
+
+### Fields
+
+- name → Text
+- slug → Auto
+- category → Taxonomy
+- maturity_level → Number
+- description → WYSIWYG
