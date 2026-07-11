@@ -47,3 +47,16 @@ Related Robots:
 
 Related Manufacturers:
 - Figure AI
+
+## Database Fields
+
+| Field | Type | Required |
+|-------|------|----------|
+| title | string | Yes |
+| slug | string | Yes |
+| authors | relationship | Yes |
+| publication | string | No |
+| publication_date | date | No |
+| doi | string | No |
+| url | url | No |
+| abstract | text | No |
