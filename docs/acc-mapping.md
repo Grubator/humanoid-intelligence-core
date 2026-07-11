@@ -28,6 +28,18 @@
 
 ## Event
 
+### Fields
+
+- name → Text
+- slug → Auto
+- event_type → Taxonomy
+- start_date → Date Picker
+- end_date → Date Picker
+- country → Relationship
+- city → Text
+- website → URL
+- description → WYSIWYG
+
 ## News
 
 ## Research Paper
