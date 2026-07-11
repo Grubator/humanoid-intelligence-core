@@ -26,6 +26,14 @@
 
 ## Country
 
+### Fields
+
+- name → Text
+- slug → Auto
+- iso_code → Text
+- region → Taxonomy
+- description → WYSIWYG
+
 ## Event
 
 ### Fields
