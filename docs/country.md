@@ -45,3 +45,13 @@ Research Institutions:
 
 Government Initiatives:
 - K-Humanoid Alliance
+
+## Database Fields
+
+| Field | Type | Required |
+|-------|------|----------|
+| name | string | Yes |
+| slug | string | Yes |
+| iso_code | string | Yes |
+| region | taxonomy | No |
+| description | text | No |
