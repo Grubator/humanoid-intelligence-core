@@ -3,7 +3,8 @@
 ## Robot
 
 ## Manufacturer
-### Fields
+### Fields<img width="1372" height="778" alt="Screenshot 2026-07-11 at 21 11 36" src="https://github.com/user-attachments/assets/af523a92-4dc8-4565-b0d6-cfcc53787b7c" />
+
 
 - name → Text
 - slug → Auto
@@ -51,3 +52,4 @@
 ## News
 
 ## Research Paper
+
