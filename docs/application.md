@@ -32,3 +32,11 @@ An Application describes where a humanoid robot performs useful work.
 | category | taxonomy | Yes |
 | industry | taxonomy | No |
 | description | text | No |
+
+### Fields
+
+- name → Text
+- slug → Auto
+- category → Taxonomy
+- industry → Taxonomy
+- description → WYSIWYG
