@@ -53,3 +53,12 @@ Related Technologies:
 | country | relationship | Yes |
 | website | url | No |
 | description | text | No |
+
+### Fields
+
+- name → Text
+- slug → Auto
+- company_type → Taxonomy
+- country → Relationship
+- website → URL
+- description → WYSIWYG
