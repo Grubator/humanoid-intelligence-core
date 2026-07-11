@@ -54,3 +54,17 @@ Related Robots:
 
 Related Manufacturers:
 - Unitree Robotics
+
+## Database Fields
+
+| Field | Type | Required |
+|-------|------|----------|
+| name | string | Yes |
+| slug | string | Yes |
+| event_type | taxonomy | Yes |
+| start_date | date | Yes |
+| end_date | date | No |
+| country | relationship | No |
+| city | string | No |
+| website | url | No |
+| description | text | No |
