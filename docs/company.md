@@ -44,3 +44,12 @@ Related Technologies:
 - Isaac
 - CUDA
 - Jetson
+
+| Field | Type | Required |
+|-------|------|----------|
+| name | string | Yes |
+| slug | string | Yes |
+| company_type | taxonomy | Yes |
+| country | relationship | Yes |
+| website | url | No |
+| description | text | No |
