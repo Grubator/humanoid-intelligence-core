@@ -24,3 +24,11 @@ An Application describes where a humanoid robot performs useful work.
 - Technologies
 - Companies
 - Countries
+
+| Field | Type | Required |
+|-------|------|----------|
+| name | string | Yes |
+| slug | string | Yes |
+| category | taxonomy | Yes |
+| industry | taxonomy | No |
+| description | text | No |
